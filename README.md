@@ -5,7 +5,7 @@ Intro to Data Science Project. Exploring dataset of HR department to provide som
 
 Contributors names and contact info
 
-ex. D. Paplauski 
-ex. V. Li
-ex. P.M Ketterman
-ex. R.M.A van Nee
+ex. D. Paplauski \
+ex. V. Li \
+ex. P.M Ketterman \
+ex. R.M.A van Nee \
