@@ -1,0 +1,11 @@
+Id,gender,age,nationality,sport,ind-university_grade,ind-debateclub,ind-programming_exp,ind-international_exp,ind-entrepeneur_exp,ind-languages,ind-exact_study,ind-degree,company,decision
+x5572d,1,26,Dutch,Football,66,0,0,0,1,2,1,1,B,False
+x3158e,1,27,Belgian,Football,55,1,0,0,1,3,0,2,B,True
+x9413d,0,26,Dutch,Football,66,1,1,0,0,2,0,1,B,False
+x9400d,1,23,Dutch,Tennis,67,0,0,0,1,2,1,1,B,False
+x5254f,0,26,Dutch,Golf,70,0,1,0,0,1,1,2,B,False
+x7432e,1,24,Dutch,Football,62,1,0,1,1,3,0,2,B,True
+x3386e,1,32,Dutch,Golf,60,0,1,0,0,1,0,1,B,False
+x4103d,0,28,Belgian,Football,66,0,1,0,0,1,1,2,B,False
+x8601c,0,21,Dutch,Tennis,71,0,1,0,0,2,1,1,B,False
+x1131d,0,26,Belgian,Tennis,69,0,1,0,0,1,1,2,B,False
