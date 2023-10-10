@@ -8,4 +8,4 @@ Contributors names and contact info
 ex. D. Paplauski \
 ex. V. Li \
 ex. P.M Ketterman \
-ex. R.M.A van Nee \
+ex. R.M.A van Nee 
